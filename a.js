@@ -39,7 +39,7 @@
       </svg>
     </div>
 
-    <a href="https://tny.base44.app/" target="_blank" class="kimi-brand-link">
+    <a href="https://bin.base44.app/" target="_blank" class="kimi-brand-link">
       <img
         src="`, "stopPropagation", "219692SRiuLP", "2367KPDpeo", "removeChild", `"
         alt="Kimi"
