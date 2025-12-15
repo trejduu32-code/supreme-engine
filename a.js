@@ -1,3 +1,9 @@
+/**
+ * Standalone Badge Script for ExploitZ3r0
+ * by ExploitZ3r0
+ * no right to change the code!
+ * No dependencies - pure vanilla JavaScript
+ */
 (function() {
   "use strict";
   
