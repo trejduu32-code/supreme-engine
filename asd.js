@@ -79,7 +79,8 @@
   
   // Create icon
   const icon = document.createElement('img');
-  icon.src = 'https://trejduu32-code.github.io/supreme-engine/ukKJQ301.svg';
+  icon.src = 'https://trejduu32-code.github.io/supreme-engine/
+image2vector.svg';
   icon.alt = 'ExploitZ3r0';
   icon.style.marginRight = '6px';
   icon.style.width = '16px';
@@ -166,4 +167,5 @@
   } else {
     init();
   }
+
 })();
